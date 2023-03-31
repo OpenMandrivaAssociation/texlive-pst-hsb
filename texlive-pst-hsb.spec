@@ -1,6 +1,6 @@
 Name:		texlive-pst-hsb
 Version:	61322
-Release:	1
+Release:	2
 Summary:	Curves with continuous colours
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-hsb
