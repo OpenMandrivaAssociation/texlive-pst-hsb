@@ -3,7 +3,7 @@ Version:	66739
 Release:	1
 Summary:	Curves with continuous colours
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-hsb
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-hsb
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-hsb.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-hsb.doc.r%{version}.tar.xz
